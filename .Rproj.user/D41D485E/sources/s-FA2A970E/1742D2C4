@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577185239150.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "353914481",
+    "id" : "1742D2C4",
+    "lastKnownWriteTime" : 1577289619,
+    "last_content_update" : 1577289619366,
+    "path" : "C:/bookdown-demo/bookdown-tcw/03-method.Rmd",
+    "project_path" : "03-method.Rmd",
+    "properties" : {
+        "cursorPosition" : "0,9",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

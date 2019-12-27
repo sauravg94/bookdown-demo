@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577291065129.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "206ED1FB",
+    "lastKnownWriteTime" : 1577292918,
+    "last_content_update" : 1577292918786,
+    "path" : "C:/bookdown-demo/bookdown-tcw/05-summary.Rmd",
+    "project_path" : "05-summary.Rmd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
