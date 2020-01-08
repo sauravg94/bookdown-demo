@@ -12,3 +12,8 @@ Please see the page "Get Started" at https://bookdown.org/ for how to compile th
 - install.packages("bookdown")
 - install.packages("knitr")
 - install.packages('tinytex') (for pdf output)
+
+## Other instructions
+- Clone or fork the repo
+- CI using Travis
+- Host using Netlify
