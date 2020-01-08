@@ -22,7 +22,7 @@ The venue
 
 ```{r echo=FALSE}
 library("leaflet")
-leaflet(width = 500, height = 200) %>%
+leaflet(width = 600, height = 300) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=77.5852923, lat=13.0193434, popup="Four Seasons Hotel")
 ```
