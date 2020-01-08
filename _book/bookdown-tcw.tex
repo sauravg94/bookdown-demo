@@ -125,7 +125,7 @@
   \postauthor{\par}
       \predate{\centering\large\emph}
   \postdate{\par}
-    \date{2019-12-24}
+    \date{2020-01-08}
 
 \usepackage{booktabs}
 
@@ -141,11 +141,12 @@
 
 This is a \emph{sample} book written in \textbf{Markdown}.
 
-\section{The venue}\label{the-venue}
+The venue
 
 \includegraphics{bookdown-tcw_files/figure-latex/unnamed-chunk-1-1.pdf}
 
-\part{Part One}\label{part-part-one}
+\part*{Part One}\label{part-part-one}
+\addcontentsline{toc}{part}{Part One}
 
 \chapter{Introduction}\label{intro}
 
@@ -230,11 +231,24 @@ was built on top of R Markdown and \textbf{knitr} \citep{xie2015}.
 
 Here is a review of existing methods.
 
-\part{Part Two}\label{part-part-two}
+\part*{Part Two}\label{part-part-two}
+\addcontentsline{toc}{part}{Part Two}
 
 \chapter{Methods}\label{methods}
 
 We describe our methods in this chapter.
+
+\section{What are the methods}\label{what-are-the-methods}
+
+\begin{itemize}
+\tightlist
+\item
+  Method 1
+\item
+  Method 2
+\item
+  Method 3
+\end{itemize}
 
 \chapter{Applications}\label{applications}
 
@@ -243,6 +257,9 @@ Some \emph{significant} applications are demonstrated in this chapter.
 \section{Example one}\label{example-one}
 
 \section{Example two}\label{example-two}
+
+\appendix
+
 
 \chapter{Final Words}\label{final-words}
 
