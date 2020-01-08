@@ -3,3 +3,8 @@
 # Final Words
 
 We have finished a nice book.
+
+## List of procedures
+- Procedure 1
+- Procedure 2
+- Procedure 3
