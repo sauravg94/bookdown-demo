@@ -3,3 +3,8 @@
 # Methods
 
 We describe our methods in this chapter.
+
+## What are the methods
+- Method 1
+- Method 2
+- Method 3

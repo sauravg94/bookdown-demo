@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "353914481",
+    "hash" : "0",
     "id" : "1742D2C4",
-    "lastKnownWriteTime" : 1577289619,
-    "last_content_update" : 1577289619366,
+    "lastKnownWriteTime" : 1578464883,
+    "last_content_update" : 1578464883277,
     "path" : "C:/bookdown-demo/bookdown-tcw/03-method.Rmd",
     "project_path" : "03-method.Rmd",
     "properties" : {
-        "cursorPosition" : "0,9",
+        "cursorPosition" : "9,10",
         "scrollLine" : "0"
     },
     "relative_order" : 6,
