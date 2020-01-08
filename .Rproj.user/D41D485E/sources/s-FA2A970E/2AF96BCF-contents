@@ -4,7 +4,7 @@ This is a minimal example of a book based on R Markdown and **bookdown** (https:
 
 Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
 
-## Install the following:
+## Install the following
 - R
 - R Studio
 
