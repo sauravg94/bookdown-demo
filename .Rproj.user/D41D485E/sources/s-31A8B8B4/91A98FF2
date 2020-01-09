@@ -7,12 +7,12 @@
     "folds" : "",
     "hash" : "0",
     "id" : "91A98FF2",
-    "lastKnownWriteTime" : 1578491725,
-    "last_content_update" : 1578491725651,
+    "lastKnownWriteTime" : 1578583144,
+    "last_content_update" : 1578583144678,
     "path" : "C:/bookdown-demo/bookdown-tcw/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "24,38",
+        "cursorPosition" : "26,20",
         "scrollLine" : "12"
     },
     "relative_order" : 4,
