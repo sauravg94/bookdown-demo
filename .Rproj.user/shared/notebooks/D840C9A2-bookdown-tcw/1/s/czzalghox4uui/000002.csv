@@ -1,8 +1,0 @@
-"0","library(""leaflet"")"
-"0","leaflet(width = 500, height = 200) %>%"
-"0","  addTiles() %>%  # Add default OpenStreetMap map tiles"
-"0","  addMarkers(lng=77.5852923, lat=13.0193434, popup=""Four Seasons Hotel"")"
-"2","cannot open file 'C:\Users\saghosh\AppData\Local\Temp\RtmpY9EDuH\Rf6ee8705f57ba': No such file or directory"
-"2","Error in file(open = ""w+b"", encoding = ""UTF-8"") : 
-  cannot open the connection
-"
