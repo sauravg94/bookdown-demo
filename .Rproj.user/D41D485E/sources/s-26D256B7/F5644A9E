@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1437693707",
+    "hash" : "0",
     "id" : "F5644A9E",
-    "lastKnownWriteTime" : 1577111590,
-    "last_content_update" : 1577111590,
+    "lastKnownWriteTime" : 1583328341,
+    "last_content_update" : 1583328341553,
     "path" : "C:/bookdown-demo/bookdown-tcw/style.css",
     "project_path" : "style.css",
     "properties" : {
+        "cursorPosition" : "13,1",
+        "scrollLine" : "0"
     },
     "relative_order" : 9,
     "source_on_save" : false,
