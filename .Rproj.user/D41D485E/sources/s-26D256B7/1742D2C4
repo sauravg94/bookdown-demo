@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "827118340",
     "id" : "1742D2C4",
-    "lastKnownWriteTime" : 1583385052,
-    "last_content_update" : 1583385052771,
+    "lastKnownWriteTime" : 1583401897,
+    "last_content_update" : 1583401897747,
     "path" : "C:/bookdown-demo/bookdown-tcw/03-method.Rmd",
     "project_path" : "03-method.Rmd",
     "properties" : {
-        "cursorPosition" : "17,33",
-        "scrollLine" : "0"
+        "cursorPosition" : "19,0",
+        "scrollLine" : "1"
     },
     "relative_order" : 6,
     "source_on_save" : false,
